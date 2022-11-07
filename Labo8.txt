@@ -1,0 +1,12 @@
+¿Qué es ser autodidacta?
+Ser autodidacta es la capacidad que tiene una persona de aprender y desarrollar habilidades por su propia cuenta, ya sea con intenciones acádemicas, profesionales, personales,
+etc.
+¿Qué es una matriz?
+Es una estructura de datos, o más bien, un espacio de memoria que permite almacenar una colección de elementos, todos del mimso tipo. La diferncia entre los arreglos y las
+matrices consiste en que los elementos no están organizados linealmente, sino que su organización es bidimensional, es decir, en filas y columnas. 
+Su sintaxis es: TIPO DE DATO NOMBRE [TAMAÑO 1][TAMAÑO 2]
+Donde el tamaño de la matriz es el número de filas multiplicado por el número de columnas, empezando desde cero.
+Fuentes para aprender a programar en C:
+-https://www.youtube.com/watch?v=R9n7j-u9ijc&list=PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV
+-https://www.tutorialspoint.com/cprogramming/#
+-https://www.aulafacil.com/cursos/programacion/lenguaje-de-programacion-c-t1454
